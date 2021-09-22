@@ -2,7 +2,7 @@
 <h3 align="center">A 22 year old back-end passionate about programming</h3>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muromeo1&label=Profile%20views&color=0e75b6&style=flat" alt="muromeo1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muromeo1&label=Profile%20views&color=0e75b6&style=flat" alt="muromeo1" /> </p>
 
 <br/>
 
