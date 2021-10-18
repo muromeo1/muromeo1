@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/muromeo1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muromeo1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murilo-romeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo-romeo" height="30" width="40" /></a>
-<a href="https://fb.com/murilo romeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murilo romeo" height="30" width="40" /></a>
+<a href="https://fb.com/murilo-romeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murilo romeo" height="30" width="40" /></a>
 <a href="https://instagram.com/_muromeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_muromeo" height="30" width="40" /></a>
 </p>
 
