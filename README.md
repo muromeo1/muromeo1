@@ -6,8 +6,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Superfiliate**
-
 - 🌱 I’m currently learning **ReactJs, Elixir and Better Performance on Queries**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muromeo1?tab=repositories](https://github.com/muromeo1?tab=repositories)
